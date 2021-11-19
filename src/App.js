@@ -1,8 +1,10 @@
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
-      <h3 style={{color:'red'}}>Start react</h3>
+      <h3 className='text-center text-danger'>Start react</h3>
+<p>ghsf</p>
+
     </div>
   );
 }
